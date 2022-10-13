@@ -4,9 +4,10 @@ Repo containing different Deep Learning Projects in Natural language processing 
 ## Medical-Papers-Skimming
 
 Finshed on 14/10/2022
+
 Also Known as SkimLit or PubMed.
 
-In this notebook, I replicated a [state-of-the-art (NLP) model](https://arxiv.org/abs/1710.06071) to breakdown research abstracts into smaller, more understandable pieces to help researchers skim through literatures.
+In this notebook, I replicated a [**state-of-the-art (NLP) model**](https://arxiv.org/abs/1710.06071) to breakdown research abstracts into smaller, more understandable pieces to help researchers skim through literatures.
 
 
 **Data Source**: 
